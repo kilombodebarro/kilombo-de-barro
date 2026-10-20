@@ -1,0 +1,10 @@
+KILOMBO DE BARRO — SITE
+
+1. Extraia este ZIP.
+2. No repositório github.com/kilombodebarro/kilombo-de-barro, envie o arquivo index.html, logo-manual.png e a pasta fotos com todas as imagens.
+3. Salve as alterações na branch main (Commit changes).
+4. A Cloudflare Pages publicará automaticamente após o novo deploy.
+
+IMPORTANTE: Esta entrega é o site público, sem painel de administração. Para editar textos, altere index.html no GitHub. Para incluir fotos, envie os arquivos e atualize as referências no HTML. Uma área administrativa com login exigirá uma integração posterior com autenticação e armazenamento.
+
+As fotografias incluem imagens de crianças; confirme as autorizações de uso de imagem antes de publicar.
